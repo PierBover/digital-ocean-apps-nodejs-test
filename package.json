@@ -1,0 +1,23 @@
+{
+  "name": "digital-ocean-apps-nodejs-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PierBover/digital-ocean-apps-nodejs-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PierBover/digital-ocean-apps-nodejs-test/issues"
+  },
+  "homepage": "https://github.com/PierBover/digital-ocean-apps-nodejs-test#readme",
+  "dependencies": {
+    "fastify": "^3.12.0"
+  }
+}
